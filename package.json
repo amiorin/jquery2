@@ -1,0 +1,17 @@
+{
+  "name": "jquery2",
+  "version": "2.0.2",
+  "description": "jQuery2 for browserify",
+  "url": "http://jquery.org",
+  "main": "jquery-2.0.2.js",
+  "repository": "",
+  "keywords": [
+    "jquery",
+    "browserify"
+  ],
+  "author": {
+    "name": "Alberto Miorin",
+    "email": "npm@ululi.it"
+  },
+  "license": "BSD"
+}
