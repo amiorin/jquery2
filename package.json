@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amiorin/jquery.git"
+    "url": "https://github.com/amiorin/jquery2.git"
   },
-  "homepage": "https://github.com/amiorin/jquery",
+  "homepage": "https://github.com/amiorin/jquery2",
   "license": "BSD",
   "devDependencies": {
     "grunt": "~0.4.1",
