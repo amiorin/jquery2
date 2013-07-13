@@ -1,4 +1,4 @@
-[![browser support](https://ci.testling.com/amiorin/jquery.png)](https://ci.testling.com/amiorin/jquery)
+[![browser support](https://ci.testling.com/amiorin/jquery2.png)](https://ci.testling.com/amiorin/jquery2)
 ## Introduction
 A patched version of jQuery 2.0.2 that doesn't create the global $.
 It's supposed to be used with [node-browserify](https://github.com/substack/node-browserify).

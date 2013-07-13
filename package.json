@@ -1,6 +1,6 @@
 {
   "name": "jquery2",
-  "version": "2.0.3",
+  "version": "2.0.3-a",
   "description": "jQuery2 for browserify",
   "url": "http://jquery.org",
   "main": "jquery-2.0.3.js",
